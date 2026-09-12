@@ -91,7 +91,8 @@ pip install -r requirements.txt
 ```
 
 ---
-<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/815b9298-9dea-4888-9a32-568f51d78d96" />
+<img width="1500" height="1500" alt="22828930_15" src="https://github.com/user-attachments/assets/8de7e7bb-0cef-4b1e-ab8c-8ba67a0b30e8" />
+
 
 ## 📦 Requirements
 
@@ -186,6 +187,7 @@ class PartialCrossEntropyLoss(nn.Module):
 - Unlabeled pixels are marked with `255` in masks
 - Loss is averaged only over labeled pixels
 - Model learns from sparse supervision without being penalized for unlabeled regions
+<img width="1400" height="400" alt="metrics_exp4_point_labels_10pct" src="https://github.com/user-attachments/assets/ea356c13-3e07-4dc7-a0fb-b3598960840c" />
 
 ---
 
