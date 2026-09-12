@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/14e41774-0db0-49e4-8e07-1280a6d507b2" />
+<img width="1400" height="400" alt="metrics_exp1_dense_labels" src="https://github.com/user-attachments/assets/722d1345-524b-4186-91da-591996cefdc5" />
+
 
 ```markdown
 # 🛰️ Semi-Supervised Remote Sensing Image Segmentation
@@ -108,6 +109,7 @@ tqdm>=4.62.0
 ---
 
 ## 🚀 Usage
+<img width="1500" height="1500" alt="22828990_15" src="https://github.com/user-attachments/assets/4850c178-1cab-41c3-87a0-14fb93f401f3" />
 
 ### 1. Prepare Your Dataset
 
@@ -188,6 +190,8 @@ class PartialCrossEntropyLoss(nn.Module):
 ---
 
 ## 📈 Results
+
+
 
 Training curves and IoU comparisons are saved to `results/`:
 
